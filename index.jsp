@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=utf-8"
+﻿<%@ page language="java" contentType="text/html; charset=utf-8"
     pageEncoding="utf-8"%>
 
 <html>
@@ -7,11 +7,11 @@
 <body>
 
 	<div align="center">
-	<h2> 환영 합니다 !!!</h2>
+	<h2> 환영 합니다 !!! 어서오세요.</h2>
 		<img src="/Spring03/resources/images/a2.png" width=600 height=350>
 <!-- 		<img src="/Spring02/src/main/webapp/resources/images/a2.png" width=600 height=350> -->
 		<br><br>
-	<h2>======================> <a href="login_form.jsp">Login</a></h2>	
+	<h2>======================> <a href="login_form.jsp">Login Hi and you</a></h2>	
 	</div>
 	
 </body>
